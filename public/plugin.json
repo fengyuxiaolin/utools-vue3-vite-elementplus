@@ -1,0 +1,15 @@
+{
+	"main": "index.html",
+	"logo": "logo.png",
+	"development": {
+		"main": "http://127.0.0.1:3000"
+	},
+	"preload": "preload.js",
+	"features": [
+		{
+		  "code": "demo",
+		  "explain": "说明",
+			"cmds":["demo"]
+		}
+	]
+}
